@@ -20,3 +20,18 @@
 
 ### Swarm Driving with Deep Learning
 [![Open Research](https://img.shields.io/badge/PDF-Open_Research-blue?logo=adobe-acrobat-reader&logoColor=white)](papers/Deep_Learning.pdf)
+
+
+### Gradient Descent
+[![Open Research](https://img.shields.io/badge/PDF-Open_Research-blue?logo=adobe-acrobat-reader&logoColor=white)](papers/Gradient_Descent.pdf)
+
+### Cloud-Based Cyber Physical Systems
+[![Open Research](https://img.shields.io/badge/PDF-Open_Research-blue?logo=adobe-acrobat-reader&logoColor=white)](papers/Cyber_Physical_Systems_Luca.pdf)
+
+
+### Model and Verify Cyber-Physical Systems CPS with Communicating Sequential Processes (CSP)
+[![Open Research](https://img.shields.io/badge/PDF-Open_Research-blue?logo=adobe-acrobat-reader&logoColor=white)](papers/CPS-2.pdf)
+
+### Bachelor Thesis
+[![Open Research](https://img.shields.io/badge/PDF-Open_Research-blue?logo=adobe-acrobat-reader&logoColor=white)](papers/BrodoLucaBT.pdf)
+
