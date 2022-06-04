@@ -4,7 +4,7 @@
 
 
 
-### Bike Share
+### Bike Sharing Demand
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/brodoluca/brodoluca.github.io/blob/main/Projects/Bike%20Share/BikeSharing.ipynb)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Projects/BikeSharing.html)
