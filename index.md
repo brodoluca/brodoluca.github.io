@@ -18,7 +18,7 @@ Given the train set, after a thorough analysis of the data, I developed and comp
 
 
 ---
-## Researches
+## Papers
 
 ### Swarm Driving with Deep Learning
 [![Open Research](https://img.shields.io/badge/PDF-Open_Research-blue?logo=adobe-acrobat-reader&logoColor=white)](papers/Deep_Learning.pdf)
