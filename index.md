@@ -1,6 +1,8 @@
 # Portfolio
-
+---
 ## Projects
+
+
 
 ### Bike Share
 
@@ -13,4 +15,5 @@
 <br>
 
 
+---
 ## Research
