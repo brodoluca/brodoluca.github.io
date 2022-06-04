@@ -19,4 +19,4 @@
 ## Paperes
 
 ### Swarm Driving with Deep Learning
-[![Open Research](https://img.shields.io/badge/PDF-Open_Research_Poster-blue?logo=adobe-acrobat-reader&logoColor=white)](papers/Deep_Learning.pdf)
+[![Open Research](https://img.shields.io/badge/PDF-Open_Research-blue?logo=adobe-acrobat-reader&logoColor=white)](papers/Deep_Learning.pdf)
