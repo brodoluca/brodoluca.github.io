@@ -24,9 +24,6 @@ Given the train set, after a thorough analysis of the data, I developed and comp
 [![Open Research](https://img.shields.io/badge/PDF-Open_Research-blue?logo=adobe-acrobat-reader&logoColor=white)](papers/Deep_Learning.pdf)
 
 
-### Gradient Descent
-[![Open Research](https://img.shields.io/badge/PDF-Open_Research-blue?logo=adobe-acrobat-reader&logoColor=white)](papers/Gradient_Descent.pdf)
-
 ### Cloud-Based Cyber Physical Systems
 [![Open Research](https://img.shields.io/badge/PDF-Open_Research-blue?logo=adobe-acrobat-reader&logoColor=white)](papers/Cyber_Physical_Systems_Luca.pdf)
 
