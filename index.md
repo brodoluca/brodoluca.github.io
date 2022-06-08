@@ -27,7 +27,7 @@ Given the train set, after a thorough analysis of the data, I developed and comp
 Given the train set, after a thorough analysis of the data, I developed and compared the performance of three different models based on their RMSLE score.
 </div>
 <br>
-<center><img src="images/bike_share.png"/></center>
+<center><img src="images/breast_cancer.png"/></center>
 <br>
 
 
