@@ -1,5 +1,6 @@
 # Portfolio
 ---
+<br>
 ## Projects
 <br>
 ### Bike Sharing Demand with Linear Regression, Random Forests and Gradient Boosting 
