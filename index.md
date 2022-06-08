@@ -2,7 +2,9 @@
 ---
 <br>
 ## Projects
+
 <br>
+
 ### Bike Sharing Demand with Linear Regression, Random Forests and Gradient Boosting 
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/brodoluca/private-portfolio/blob/main/Bike%20Share/BikeSharing.ipynb)
