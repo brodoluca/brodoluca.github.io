@@ -6,7 +6,7 @@
 <br>
 
 ### Bike Sharing Demand with Linear Regression, Random Forests and Gradient Boosting 
-
+_08.06.2022_
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/brodoluca/private-portfolio/blob/main/Bike%20Share/BikeSharing.ipynb)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Projects/BikeSharing.html)
 
@@ -19,7 +19,7 @@ Given the train set, after a thorough analysis of the data, I developed and comp
 
 <br>
 ### Breast Cancer Prediction using Random Forests, Support Vector Machines and Ridge Classifiers 
-
+_01.06.2022_
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/brodoluca/private-portfolio/blob/main/BreastCancer/Untitled.ipynb)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Projects/BreastCancer.html)
 
