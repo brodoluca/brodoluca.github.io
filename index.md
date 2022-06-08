@@ -23,7 +23,7 @@ Given the train set, after a thorough analysis of the data, I developed and comp
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/brodoluca/private-portfolio/blob/main/BreastCancer/Untitled.ipynb)
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Projects/BreastCancer.html)
 
-<div style="text-align: justify"> In this project I am going to perform an extensive Exploratory Data Analysis (EDA) and then transform the data using Principal Components Analysis (PCA) to feed it into three different models, namely Random Forests (RF), Support Vector Machines (SVM) and Ridge Classifiers and (RC) to predict whether a patient has breast cancer or not. 
+<div style="text-align: justify"> In this project I am going to perform an extensive Exploratory Data Analysis (EDA) and then transform the data using Principal Components Analysis (PCA) to feed it into three different models, namely Random Forests (RF), Support Vector Machines (SVM) and Ridge Classifiers and (RC) to predict whether a patient has breast cancer or not. In order to find the best model, I performed Gridsearch in order to find the best tuning parameters.
 </div>
 <br>
 <center><img src="images/breast_cancer.png"/></center>
